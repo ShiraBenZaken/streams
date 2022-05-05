@@ -15,8 +15,8 @@ body {
     flex-wrap: wrap;
     align-content: space-around;
     padding: 1rem 2rem;
-    background-color: #f1f1f1;
-    box-shadow: 0 0.5rem 0.5rem -0.3rem #bc82b7;
+    background-color: #f5f5f5;
+    box-shadow: 0 0.2rem 0.8rem -0.3rem #a333c8;
 }
 
 .header a {
@@ -86,6 +86,10 @@ form .field {
 }
 form .field .input {
     padding: 0 0.5rem;
+}
+
+.createStream .submit{
+    text-align: center;
 }
 
 /* end create form */
